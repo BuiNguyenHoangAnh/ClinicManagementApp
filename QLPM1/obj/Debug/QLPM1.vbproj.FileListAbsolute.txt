@@ -1,0 +1,16 @@
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\bin\Debug\QLPM1.exe
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\bin\Debug\QLPM1.pdb
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.Resources.resources
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.vbproj.GenerateResource.Cache
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.exe.licenses
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.exe
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.pdb
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.vbprojResolveAssemblyReference.cache
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.frMain.resources
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.frTiepnhanNhanvien.resources
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.frLapPhieukhambenh.resources
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.frmTraCuuNhanVien.resources
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.frThongTinNhanVien.resources
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.frmDanhsachkhambenh.resources
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.frmLaphoadonthanhtoan.resources
+C:\Users\AaronHoang\Documents\Visual Studio 2013\Projects\DXApplication3\QLPM1\obj\Debug\QLPM1.frmTracuubenhnhan.resources
